@@ -1,0 +1,1090 @@
+{
+  "name": "Next of kin by state",
+  "description": "Order in which relatives inherit when a person dies without a will (intestate succession), for each U.S. state, with the controlling statute.",
+  "source": "https://lawdiver.com/guides/compare/next-of-kin",
+  "license": "CC BY 4.0 — credit \"LawDiver (lawdiver.com)\" with a link.",
+  "builtAt": "2026-11-05",
+  "builtWith": "LawDiver API POST /api/v1/statutes/retrieve",
+  "disclaimer": "General information, not legal advice. The order of priority is a summary: shares depend on the full family situation, and the statute controls.",
+  "rows": [
+    {
+      "state": "Alabama",
+      "stateCode": "AL",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings or descendants of siblings",
+        "Grandparents or descendants of grandparents"
+      ],
+      "statute": {
+        "citation": "Ala. Code § 43-8-42",
+        "editionYear": 2026,
+        "officialUrl": "https://alison.legislature.state.al.us/code-of-alabama/?title=43&section=43-8-42",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aalabama%3A43-8-42",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/alabama/who-are-next-of-kin-in-alabama",
+      "note": null
+    },
+    {
+      "state": "Alaska",
+      "stateCode": "AK",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Alaska Stat. § 13.12.103",
+        "editionYear": 2026,
+        "officialUrl": "https://www.akleg.gov/basis/statutes.asp?title=13#13.12.103",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aalaska%3A13.12.103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/alaska/who-are-next-of-kin-in-alaska",
+      "note": null
+    },
+    {
+      "state": "Arizona",
+      "stateCode": "AZ",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Ariz. Rev. Stat. § 14-2103",
+        "editionYear": 2026,
+        "officialUrl": "https://www.azleg.gov/viewdocument/?docName=https://www.azleg.gov/ars/14/02103.htm",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aarizona%3A14-2103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/arizona/who-are-next-of-kin-in-arizona",
+      "note": null
+    },
+    {
+      "state": "Arkansas",
+      "stateCode": "AR",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings"
+      ],
+      "statute": {
+        "citation": "Ark. Code Ann. § 28-9-214",
+        "editionYear": 2026,
+        "officialUrl": null,
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aarkansas%3A28-9-214",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/arkansas/who-are-next-of-kin-in-arkansas",
+      "note": null
+    },
+    {
+      "state": "California",
+      "stateCode": "CA",
+      "orderOfPriority": [
+        "Surviving spouse or registered domestic partner",
+        "Child(ren)",
+        "Grandchildren",
+        "Parent(s)",
+        "Sibling(s)",
+        "Nieces and nephews",
+        "Grandparents",
+        "Aunts or uncles",
+        "Cousins",
+        "Issue of predeceased spouse"
+      ],
+      "statute": {
+        "citation": "Cal. Prob. Code § 6402",
+        "editionYear": 2025,
+        "officialUrl": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PROB&sectionNum=6402",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Acalifornia%3Aprob%3A6402",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/california/who-are-next-of-kin-in-california",
+      "note": null
+    },
+    {
+      "state": "Colorado",
+      "stateCode": "CO",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and children’s descendants",
+        "Parents",
+        "Siblings and sibling’s descendants",
+        "Grandparents",
+        "Aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Colo. Rev. Stat. § 15-11-103",
+        "editionYear": 2026,
+        "officialUrl": "https://leg.colorado.gov/sites/default/files/images/olls/crs2024-title-15.docx#15-11-103",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Acolorado%3A15-11-103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/colorado/who-are-next-of-kin-in-colorado",
+      "note": null
+    },
+    {
+      "state": "Connecticut",
+      "stateCode": "CT",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings and their descendants"
+      ],
+      "statute": {
+        "citation": "Conn. Gen. Stat. § 45a-439",
+        "editionYear": 2026,
+        "officialUrl": "https://www.cga.ct.gov/current/pub/chap_802b.htm",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aconnecticut%3A45a-439",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/connecticut/who-are-next-of-kin-in-connecticut",
+      "note": null
+    },
+    {
+      "state": "Delaware",
+      "stateCode": "DE",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Del. Code Ann. tit. 12, § 503",
+        "editionYear": 2026,
+        "officialUrl": "https://delcode.delaware.gov/title12/c005/index.html#503",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Adelaware%3A12%3A503",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/delaware/who-are-next-of-kin-in-delaware",
+      "note": null
+    },
+    {
+      "state": "Florida",
+      "stateCode": "FL",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings and their descendants",
+        "Grandparents",
+        "Aunts and uncles and their descendants"
+      ],
+      "statute": {
+        "citation": "Fla. Stat. § 732.103",
+        "editionYear": 2026,
+        "officialUrl": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0732/Sections/0732.103.html",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aflorida%3A732.103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": null,
+      "note": "No LawDiver guide yet. Order taken from the statute text."
+    },
+    {
+      "state": "Georgia",
+      "stateCode": "GA",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Brothers and sisters",
+        "Grandparents",
+        "Uncles and aunts"
+      ],
+      "statute": {
+        "citation": "Ga. Code Ann. § 53-2-1",
+        "editionYear": 2025,
+        "officialUrl": null,
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Ageorgia%3A53-2-1",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/georgia/who-are-next-of-kin-in-georgia",
+      "note": null
+    },
+    {
+      "state": "Hawaii",
+      "stateCode": "HI",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Haw. Rev. Stat. § 560:2-103",
+        "editionYear": null,
+        "officialUrl": "https://data.capitol.hawaii.gov/hrscurrent/Vol12_Ch0501-0588/HRS0560/HRS_0560-0002-0103.htm",
+        "lawdiverUrl": null,
+        "verified": true,
+        "checkedVia": "Hawaii Legislature (official)"
+      },
+      "guideUrl": "https://lawdiver.com/guides/hawaii/who-are-next-of-kin-in-hawaii",
+      "note": null
+    },
+    {
+      "state": "Idaho",
+      "stateCode": "ID",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Idaho Code § 15-2-103",
+        "editionYear": 2026,
+        "officialUrl": "https://legislature.idaho.gov/statutesrules/idstat/Title15/T15CH2/SECT15-2-103/",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aidaho%3A15-2-103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/idaho/who-are-next-of-kin-in-idaho",
+      "note": null
+    },
+    {
+      "state": "Illinois",
+      "stateCode": "IL",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings"
+      ],
+      "statute": {
+        "citation": "755 ILCS 5/2-1",
+        "editionYear": 2026,
+        "officialUrl": "https://www.ilga.gov/Documents/legislation/ilcs/documents/075500050K2-1.htm",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aillinois%3A755-5%3A2-1",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/illinois/who-are-next-of-kin-in-illinois",
+      "note": null
+    },
+    {
+      "state": "Indiana",
+      "stateCode": "IN",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Nieces and nephews",
+        "Grandparents",
+        "Aunts and uncles",
+        "Cousins"
+      ],
+      "statute": {
+        "citation": "Ind. Code § 29-1-2-1",
+        "editionYear": 2026,
+        "officialUrl": "https://iga.in.gov/laws/2026/ic/titles/29#29-1-2-1",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aindiana%3A29-1-2-1",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/indiana/who-are-next-of-kin-in-indiana",
+      "note": null
+    },
+    {
+      "state": "Iowa",
+      "stateCode": "IA",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Great-grandparents",
+        "Issue of deceased spouse"
+      ],
+      "statute": {
+        "citation": "Iowa Code § 633.219",
+        "editionYear": 2026,
+        "officialUrl": "https://www.legis.iowa.gov/docs/code/633.219.pdf",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aiowa%3A633.219",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/iowa/who-are-next-of-kin-in-iowa",
+      "note": null
+    },
+    {
+      "state": "Kansas",
+      "stateCode": "KS",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings"
+      ],
+      "statute": {
+        "citation": "K.S.A. § 59-506",
+        "editionYear": 2026,
+        "officialUrl": "https://www.kslegislature.gov/b2025_26/laws/059_000_0000_chapter/059_005_0000_article/059_005_0006_section/059_005_0006_k/",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Akansas%3A59-506",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/kansas/who-are-next-of-kin-in-kansas",
+      "note": null
+    },
+    {
+      "state": "Kentucky",
+      "stateCode": "KY",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Aunts and uncles",
+        "Great grandparents"
+      ],
+      "statute": {
+        "citation": "Ky. Rev. Stat. Ann. § 391.010",
+        "editionYear": 2026,
+        "officialUrl": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=36130",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Akentucky%3A391.010",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/kentucky/who-are-next-of-kin-in-kentucky",
+      "note": null
+    },
+    {
+      "state": "Louisiana",
+      "stateCode": "LA",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings"
+      ],
+      "statute": {
+        "citation": "La. Civ. Code art. 880",
+        "editionYear": 2026,
+        "officialUrl": "https://legis.la.gov/legis/Law.aspx?d=111031",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Alouisiana%3Aciv%3A880",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/louisiana/who-are-next-of-kin-in-louisiana",
+      "note": null
+    },
+    {
+      "state": "Maine",
+      "stateCode": "ME",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Descendants of parents (siblings, nieces and nephews)",
+        "Grandparents and their descendants",
+        "Great-grandparents and their descendants",
+        "Descendants of a deceased spouse"
+      ],
+      "statute": {
+        "citation": "Me. Rev. Stat. tit. 18-C, § 2-103",
+        "editionYear": null,
+        "officialUrl": "https://legislature.maine.gov/statutes/18-C/title18-Csec2-103.html",
+        "lawdiverUrl": null,
+        "verified": true,
+        "checkedVia": "Maine Legislature (official)"
+      },
+      "guideUrl": "https://lawdiver.com/guides/maine/who-are-next-of-kin-in-maine",
+      "note": "Order taken from the official statute text. Maine statutes are not yet in LawDiver statute data."
+    },
+    {
+      "state": "Maryland",
+      "stateCode": "MD",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Children’s descendants",
+        "Parents",
+        "Siblings",
+        "Siblings descendants",
+        "Paternal and maternal kindred"
+      ],
+      "statute": {
+        "citation": "Md. Code Ann., Est. & Trusts § 3-104",
+        "editionYear": 2026,
+        "officialUrl": "https://mgaleg.maryland.gov/mgawebsite/Laws/StatuteText?article=get&section=3-104&enactments=false",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Amaryland%3Aget%3A3-104",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/maryland/who-are-next-of-kin-in-maryland",
+      "note": null
+    },
+    {
+      "state": "Massachusetts",
+      "stateCode": "MA",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Mass. Gen. Laws ch. 190B, § 2-103",
+        "editionYear": 2026,
+        "officialUrl": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleII/Chapter190B/Section2-103",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Amassachusetts%3A190b%3A2-103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/massachusetts/who-are-next-of-kin-in-massachusetts",
+      "note": null
+    },
+    {
+      "state": "Michigan",
+      "stateCode": "MI",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children or descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents or descendants of grandparents"
+      ],
+      "statute": {
+        "citation": "Mich. Comp. Laws § 700.2103",
+        "editionYear": 2026,
+        "officialUrl": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-700-2103",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Amichigan%3A700.2103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/michigan/who-are-next-of-kin-in-michigan",
+      "note": null
+    },
+    {
+      "state": "Minnesota",
+      "stateCode": "MN",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Minn. Stat. § 524.2-103",
+        "editionYear": 2026,
+        "officialUrl": "https://www.revisor.mn.gov/statutes/2026/cite/524.2-103",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aminnesota%3A524.2-103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/minnesota/who-are-next-of-kin-in-minnesota",
+      "note": null
+    },
+    {
+      "state": "Mississippi",
+      "stateCode": "MS",
+      "orderOfPriority": [
+        "Surviving spouse and children",
+        "Parents and siblings",
+        "Grandparents and uncles and aunts"
+      ],
+      "statute": {
+        "citation": "Miss. Code Ann. § 91-1-3",
+        "editionYear": null,
+        "officialUrl": "https://codes.findlaw.com/ms/title-91-trusts-and-estates/ms-code-sect-91-1-3/",
+        "lawdiverUrl": null,
+        "verified": true,
+        "checkedVia": "FindLaw"
+      },
+      "guideUrl": "https://lawdiver.com/guides/mississippi/who-are-next-of-kin-in-mississippi",
+      "note": null
+    },
+    {
+      "state": "Missouri",
+      "stateCode": "MO",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents and siblings",
+        "Grandparents and aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Mo. Rev. Stat. § 474.010",
+        "editionYear": 2026,
+        "officialUrl": "https://revisor.mo.gov/main/OneSection.aspx?section=474.010",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Amissouri%3A474.010",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/missouri/who-are-next-of-kin-in-missouri",
+      "note": null
+    },
+    {
+      "state": "Montana",
+      "stateCode": "MT",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Next closest degree of kinship"
+      ],
+      "statute": {
+        "citation": "Mont. Code Ann. § 72-2-113",
+        "editionYear": 2026,
+        "officialUrl": "https://mca.legmt.gov/bills/mca/title_0720/chapter_0020/part_0010/section_0130/0720-0020-0010-0130.html",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Amontana%3A72-2-113",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/montana/who-are-next-of-kin-in-montana",
+      "note": null
+    },
+    {
+      "state": "Nebraska",
+      "stateCode": "NE",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Neb. Rev. Stat. § 30-2303",
+        "editionYear": 2026,
+        "officialUrl": "https://nebraskalegislature.gov/laws/statutes.php?statute=30-2303",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Anebraska%3A30-2303",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/nebraska/who-are-next-of-kin-in-nebraska",
+      "note": null
+    },
+    {
+      "state": "Nevada",
+      "stateCode": "NV",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings"
+      ],
+      "statute": {
+        "citation": "Nev. Rev. Stat. § 134.090",
+        "editionYear": 2026,
+        "officialUrl": "https://www.leg.state.nv.us/NRS/NRS-134.html#NRS134Sec090",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Anevada%3A134.090",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/nevada/who-are-next-of-kin-in-nevada",
+      "note": null
+    },
+    {
+      "state": "New Hampshire",
+      "stateCode": "NH",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Issue of grandparents"
+      ],
+      "statute": {
+        "citation": "N.H. Rev. Stat. Ann. § 561:1",
+        "editionYear": 2026,
+        "officialUrl": "https://www.gencourt.state.nh.us/rsa/html/LVI/561/561-1.htm",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Anew-hampshire%3A561-1",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/new-hampshire/who-are-next-of-kin-in-new-hampshire",
+      "note": null
+    },
+    {
+      "state": "New Jersey",
+      "stateCode": "NJ",
+      "orderOfPriority": [
+        "Surviving spouse, civil union partner or domestic partner",
+        "Descendants",
+        "Parents",
+        "Descendants of parents (siblings, nieces and nephews)",
+        "Grandparents and their descendants",
+        "Step-children and their descendants"
+      ],
+      "statute": {
+        "citation": "N.J. Stat. Ann. § 3B:5-4",
+        "editionYear": 2026,
+        "officialUrl": null,
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Anew-jersey%3A3b-5-4",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/new-jersey/who-are-next-of-kin-in-new-jersey",
+      "note": null
+    },
+    {
+      "state": "New Mexico",
+      "stateCode": "NM",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents and descendants",
+        "Descendants of deceased spouse"
+      ],
+      "statute": {
+        "citation": "N.M. Stat. Ann. § 45-2-103",
+        "editionYear": null,
+        "officialUrl": null,
+        "lawdiverUrl": null,
+        "verified": false,
+        "checkedVia": null
+      },
+      "guideUrl": "https://lawdiver.com/guides/new-mexico/who-are-next-of-kin-in-new-mexico",
+      "note": "Citation confirmed in public code databases; statute text not checked in this build."
+    },
+    {
+      "state": "New York",
+      "stateCode": "NY",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Grandchildren",
+        "Parents",
+        "Siblings and issue of pre-deceased siblings, if any (nieces and nephews)",
+        "Grandparents and issue of predeceased grandparents (first cousins)",
+        "Great-grandparents and issue of predeceased great-grandparents (first cousins once removed)"
+      ],
+      "statute": {
+        "citation": "N.Y. Estates, Powers & Trusts Law § 4-1.1",
+        "editionYear": 2026,
+        "officialUrl": "https://www.nysenate.gov/legislation/laws/EPT/4-1.1",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Anew-york%3Aept%3A4-1.1",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/new-york/next-of-kin-under-new-york-law",
+      "note": null
+    },
+    {
+      "state": "North Carolina",
+      "stateCode": "NC",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings and their descendants",
+        "Grandparents",
+        "Aunts and uncles and their descendants"
+      ],
+      "statute": {
+        "citation": "N.C. Gen. Stat. § 29-15",
+        "editionYear": 2026,
+        "officialUrl": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_29/GS_29-15.html",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Anorth-carolina%3A29-15",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/north-carolina/who-are-next-of-kin-in-north-carolina",
+      "note": null
+    },
+    {
+      "state": "North Dakota",
+      "stateCode": "ND",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "N.D. Cent. Code § 30.1-04-03",
+        "editionYear": 2026,
+        "officialUrl": "https://ndlegis.gov/cencode/t30-1c04.pdf#nameddest=30p1-04-03",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Anorth-dakota%3A30.1-04-03",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/north-dakota/who-are-next-of-kin-in-north-dakota",
+      "note": null
+    },
+    {
+      "state": "Ohio",
+      "stateCode": "OH",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Descendants of siblings",
+        "Grandparents",
+        "Aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Ohio Rev. Code Ann. § 2105.06",
+        "editionYear": 2026,
+        "officialUrl": "https://codes.ohio.gov/ohio-revised-code/section-2105.06",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Aohio%3A2105.06",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/ohio/who-are-next-of-kin-in-ohio",
+      "note": null
+    },
+    {
+      "state": "Oklahoma",
+      "stateCode": "OK",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and issue",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Okla. Stat. tit. 84, § 213",
+        "editionYear": null,
+        "officialUrl": null,
+        "lawdiverUrl": null,
+        "verified": false,
+        "checkedVia": null
+      },
+      "guideUrl": "https://lawdiver.com/guides/oklahoma/who-are-next-of-kin-in-oklahoma",
+      "note": "Citation confirmed in public code databases; statute text not checked in this build."
+    },
+    {
+      "state": "Oregon",
+      "stateCode": "OR",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings"
+      ],
+      "statute": {
+        "citation": "Or. Rev. Stat. § 112.045",
+        "editionYear": null,
+        "officialUrl": "https://www.oregonlegislature.gov/bills_laws/ors/ors112.html",
+        "lawdiverUrl": null,
+        "verified": true,
+        "checkedVia": "Oregon Legislature (official)"
+      },
+      "guideUrl": "https://lawdiver.com/guides/oregon/who-are-next-of-kin-in-oregon",
+      "note": null
+    },
+    {
+      "state": "Pennsylvania",
+      "stateCode": "PA",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Aunts, uncles and their children"
+      ],
+      "statute": {
+        "citation": "20 Pa.C.S. § 2103",
+        "editionYear": 2026,
+        "officialUrl": "https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=20",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Apennsylvania%3A20%3A2103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/pennsylvania/who-are-next-of-kin-in-pennsylvania",
+      "note": null
+    },
+    {
+      "state": "Rhode Island",
+      "stateCode": "RI",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Nieces and nephews",
+        "Grandparents",
+        "Aunts and uncles",
+        "Cousins"
+      ],
+      "statute": {
+        "citation": "R.I. Gen. Laws § 33-1-1",
+        "editionYear": 2026,
+        "officialUrl": "https://webserver.rilegislature.gov/Statutes/TITLE33/33-1/33-1-1.htm",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Arhode-island%3A33-1-1",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/rhode-island/who-are-next-of-kin-in-rhode-island",
+      "note": null
+    },
+    {
+      "state": "South Carolina",
+      "stateCode": "SC",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "S.C. Code Ann. § 62-2-103",
+        "editionYear": 2026,
+        "officialUrl": "https://www.scstatehouse.gov/code/t62c002.php",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Asouth-carolina%3A62-2-103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/south-carolina/who-are-next-of-kin-in-south-carolina",
+      "note": null
+    },
+    {
+      "state": "South Dakota",
+      "stateCode": "SD",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "S.D. Codified Laws § 29A-2-103",
+        "editionYear": 2026,
+        "officialUrl": "https://sdlegislature.gov/api/Statutes/29A-2.html?all=true",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Asouth-dakota%3A29a-2-103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/south-dakota/who-are-next-of-kin-in-south-dakota",
+      "note": null
+    },
+    {
+      "state": "Tennessee",
+      "stateCode": "TN",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings",
+        "Nieces and nephews",
+        "Grandparents",
+        "Aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Tenn. Code Ann. § 31-2-104",
+        "editionYear": 2026,
+        "officialUrl": null,
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Atennessee%3A31-2-104",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/tennessee/who-are-next-of-kin-in-tennessee",
+      "note": null
+    },
+    {
+      "state": "Texas",
+      "stateCode": "TX",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Children’s descendants",
+        "Parents",
+        "Siblings",
+        "Siblings descendants",
+        "Paternal and maternal kindred"
+      ],
+      "statute": {
+        "citation": "Tex. Est. Code § 201.001",
+        "editionYear": 2026,
+        "officialUrl": "https://statutes.capitol.texas.gov/Docs/ES/htm/ES.201.htm#201.001",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Atexas%3Aes%3A201.001",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/texas/who-are-next-of-kin-in-texas",
+      "note": null
+    },
+    {
+      "state": "Utah",
+      "stateCode": "UT",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children and descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Utah Code Ann. § 75-2-103",
+        "editionYear": 2026,
+        "officialUrl": "https://le.utah.gov/xcode/Title75/Chapter2/75-2-S103.html",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Autah%3A75-2-103",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/utah/who-are-next-of-kin-in-utah",
+      "note": null
+    },
+    {
+      "state": "Vermont",
+      "stateCode": "VT",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children or descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents or descendants of grandparents"
+      ],
+      "statute": {
+        "citation": "Vt. Stat. Ann. tit. 14, § 314",
+        "editionYear": 2026,
+        "officialUrl": "https://legislature.vermont.gov/statutes/section/14/042/00314",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Avermont%3A14%3A314",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/vermont/who-are-next-of-kin-in-vermont",
+      "note": null
+    },
+    {
+      "state": "Virginia",
+      "stateCode": "VA",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Va. Code Ann. § 64.2-200",
+        "editionYear": 2026,
+        "officialUrl": "https://law.lis.virginia.gov/vacode/64.2-200/",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Avirginia%3A64.2-200",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/virginia/who-are-next-of-kin-in-virginia",
+      "note": null
+    },
+    {
+      "state": "Washington",
+      "stateCode": "WA",
+      "orderOfPriority": [
+        "Spouse",
+        "Children",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Wash. Rev. Code § 11.04.015",
+        "editionYear": 2026,
+        "officialUrl": "https://app.leg.wa.gov/RCW/default.aspx?cite=11.04.015",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Awashington%3A11.04.015",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/washington/who-are-next-of-kin-in-washington",
+      "note": null
+    },
+    {
+      "state": "West Virginia",
+      "stateCode": "WV",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Descendants",
+        "Parents",
+        "Siblings",
+        "Grandparents",
+        "Aunts and uncles"
+      ],
+      "statute": {
+        "citation": "W. Va. Code § 42-1-3A",
+        "editionYear": 2026,
+        "officialUrl": "https://code.wvlegislature.gov/42-1-3A/",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Awest-virginia%3A42-1-3a",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/west-virginia/who-are-next-of-kin-in-west-virginia",
+      "note": null
+    },
+    {
+      "state": "Wisconsin",
+      "stateCode": "WI",
+      "orderOfPriority": [
+        "Surviving spouse or domestic partner",
+        "Children",
+        "Parents",
+        "Brothers and sisters",
+        "Grandparents"
+      ],
+      "statute": {
+        "citation": "Wis. Stat. § 852.01",
+        "editionYear": 2026,
+        "officialUrl": "https://docs.legis.wisconsin.gov/document/statutes/852.01",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Awisconsin%3A852.01",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/wisconsin/who-are-next-of-kin-in-wisconsin",
+      "note": null
+    },
+    {
+      "state": "Wyoming",
+      "stateCode": "WY",
+      "orderOfPriority": [
+        "Surviving spouse",
+        "Children",
+        "Parents and siblings",
+        "Grandparents and aunts and uncles"
+      ],
+      "statute": {
+        "citation": "Wyo. Stat. Ann. § 2-4-101",
+        "editionYear": 2026,
+        "officialUrl": "https://wyoleg.gov/stateStatutes/StatutesDownload",
+        "lawdiverUrl": "https://lawdiver.com/authoritydisplay?key=st%3Awyoming%3A2-4-101",
+        "verified": true,
+        "checkedVia": "LawDiver API"
+      },
+      "guideUrl": "https://lawdiver.com/guides/wyoming/who-are-next-of-kin-in-wyoming",
+      "note": null
+    }
+  ]
+}
