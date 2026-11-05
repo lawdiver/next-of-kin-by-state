@@ -1,4 +1,5 @@
 # Next of kin by state
+[![DOI](https://zenodo.org/badge/1447430025.svg)](https://doi.org/10.5281/zenodo.23989925)
 
 Who inherits when someone dies without a will (intestate succession), in each of the 50 U.S. states: the order of priority among relatives, and the statute that controls it.
 
